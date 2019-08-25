@@ -1,0 +1,12 @@
+6eb66248c1493a25cc80f9d94c322765 *DESCRIPTION
+8b16f4a1103563655804f83699b64f9f *LICENSE
+e20c34de4bc57e6e5ec2d29caf133de4 *NAMESPACE
+b92e7293b4154eacdd54f65af5fa8ced *R/fipe.R
+ccddebaf85a61a98ed0481ed83f17906 *R/funs.R
+3ae23ff1c90581c3e5651878b3705fff *R/utils-pipe.R
+0817425b295dcceca59727778eae48a4 *R/utils.R
+d1af7e8b22ac7a4913024c253750bf28 *README.md
+e683a26814ec2d910fb6debdd3ad0254 *man/figures/README-plot_compare-1.png
+a1e361d0ec55fb5008367f86ac631727 *man/figures/README-plot_history-1.png
+46beab9fa4fc47d7eaee0b7b89de0f32 *man/fipe_vehicle.Rd
+de570f4bd2659c8f2cd27a85c5f92d4f *man/pipe.Rd
